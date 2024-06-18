@@ -1,0 +1,15 @@
+{
+    "nombre": "Rodrigo Lopez",
+    "email": "rodrigo.lopez@voll.med",
+    "documento": 123456,
+    "telefono": 4523618,
+    "especialidad": "ORTOPEDIA",
+    "direccion": {
+        "calle": "Gran via",
+        "distrito": "Distrito 1",
+        "ciudad": "Lima",
+        "numero": 1,
+        "complemento": "a"
+    },
+    "activo": 1
+}

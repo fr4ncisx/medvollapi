@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "api.security.service",
+  "type": "Secret key",
+  "description": "Secret key from environment"
+}]}
